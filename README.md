@@ -1,6 +1,6 @@
 # Hi, I'm Seif El-Eslam 👋
 
-AI Engineer at Arabian Solutions Beacon, focused on practical AI-powered systems that combine machine learning, NLP, generative AI, and data-driven business workflows.
+AI Engineer at Arabian Solutions Beacon, building practical AI-powered systems that combine machine learning, NLP, generative AI, and data-driven business workflows.
 
 <div align="center">
 
@@ -12,12 +12,9 @@ AI Engineer at Arabian Solutions Beacon, focused on practical AI-powered systems
 
 ## About Me
 
-- AI Engineer at Arabian Solutions Beacon (April 2026 – Present)
-- Worked on AI assistant solutions for ERP workflows and business systems
-- Contributed to ERP usage analytics dashboards for module and engagement tracking
-- Helped support AI-powered CV ranking workflows for candidate evaluation
-- Interested in building maintainable, reliable AI systems with real business impact
-- Learning focus: MLOps, model deployment, monitoring, CI/CD, and production AI workflows
+I am an AI Engineer currently working at Arabian Solutions Beacon, where I develop AI solutions for real business workflows. My work includes building an ERP AI Assistant, contributing to ERP usage analytics dashboards, and supporting AI-powered CV ranking workflows for candidate evaluation.
+
+I focus on building reliable, maintainable AI systems that solve practical business problems and improve decision-making, while continuing to strengthen my knowledge in MLOps, deployment, monitoring, and production AI systems.
 
 ## What I Build
 
@@ -57,67 +54,66 @@ AI Engineer at Arabian Solutions Beacon, focused on practical AI-powered systems
 
 ## Featured Projects
 
-### Plant Disease Prediction
-A plant disease recognition application built with TensorFlow and Streamlit for image-based diagnosis.
+### Graduation-DNN
+Heart disease risk prediction using a deep neural network and an interactive Streamlit app.
 
-- Problem: early plant disease identification for agricultural support
+- Problem: provide early risk screening using tabular health data
+- Approach: model training, inference, and deployment in a user-facing dashboard
+- Stack: Python, TensorFlow, Keras, scikit-learn, pandas, Streamlit
+- Repository: https://github.com/Seif157/Graduation-DNN
+
+### Plant Disease Prediction
+Plant disease recognition application built with TensorFlow and Streamlit for image-based diagnosis.
+
+- Problem: support early agricultural disease detection
 - Approach: CNN-based image classification with a browser UI
 - Stack: Python, TensorFlow, Keras, Streamlit, NumPy, Pillow
 - Repository: https://github.com/Seif157/Plant_Disease_Prediction
 - Demo: https://plantdiseasepredictiondemo.streamlit.app/
-
-### Graduation-DNN
-A heart disease risk prediction project using a deep neural network and an interactive Streamlit app.
-
-- Problem: risk screening using tabular health data
-- Approach: neural-network model training and inference in a deployable app
-- Stack: Python, TensorFlow, Keras, scikit-learn, pandas, Streamlit
-- Repository: https://github.com/Seif157/Graduation-DNN
-
-### StructuraNet-AI
-AI-assisted network topology design and generation project with a full-stack application workflow.
-
-- Problem: simplify network design and documentation tasks with AI support
-- Approach: AI-driven topology generation and web app workflow
-- Stack: React, Node.js, Express, MongoDB, Gemini, Clerk, ImageKit
-- Repository: https://github.com/Seif157/StructuraNet-AI
-- Note: This repository is a forked project and is included here as an example of broader AI product work, not as a claim of independent authorship.
+- Note: This repository is a fork of an upstream project and is included here as a demonstration of deployed AI work, not as a claim of independent authorship of the original upstream codebase.
 
 ### Crop Recommendation Using Gemini
-A crop recommendation project using generative AI guidance for agricultural decision support.
+AI-assisted crop recommendation workflow using generative AI guidance.
 
-- Problem: contextual crop recommendations using AI-assisted reasoning
-- Approach: AI-based recommendation workflow
+- Problem: support recommendation decisions with contextual AI reasoning
+- Approach: AI-driven recommendation interface and workflow
 - Stack: Python, Gemini, AI application workflow
 - Repository: https://github.com/Seif157/Crop-Recommendation-Using-Gemini
 
 ### Fake News Detection
-A text-classification project focused on detecting misinformation in news content.
+Text-classification project focused on detecting misinformation in news content.
 
-- Problem: distinguish credible vs. non-credible news articles
-- Approach: NLP and classification workflow using a dataset-driven model
+- Problem: distinguish credible and non-credible news articles
+- Approach: NLP and classification pipeline using dataset-driven modeling
 - Stack: Python, Jupyter Notebook, NLP, scikit-learn
 - Repository: https://github.com/Seif157/Fake-News-Detection
 
 ### Named Entity Recognition
-A news-article NLP project focused on extracting named entities from text.
+NLP project focused on extracting named entities from news text.
 
-- Problem: identify entities in text content
+- Problem: identify entities in text data
 - Approach: NLP extraction workflow in notebook-based experimentation
 - Stack: Python, Jupyter Notebook, NLP
 - Repository: https://github.com/Seif157/Named-Entity-Recognition-NER-from-News-Articles
+
+### StructuraNet-AI
+AI-assisted network topology generation and design project.
+
+- Problem: simplify network design and documentation workflows
+- Approach: AI-driven design workflow with a full-stack application
+- Stack: React, Node.js, Express, MongoDB, Gemini, Clerk, ImageKit
+- Repository: https://github.com/Seif157/StructuraNet-AI
+- Note: This repository is a fork of an upstream project and is included as part of a broader AI product exploration rather than as a claim of independent authorship of the original upstream implementation.
 
 ## Professional Experience
 
 ### AI Engineer — Arabian Solutions Beacon
 
-At Arabian Solutions Beacon, I have worked on AI solutions that support business operations and decision-making, including:
+At Arabian Solutions Beacon, I have contributed to AI solutions that support business operations and decision-making, including:
 
-- ERP AI Assistant: AI-powered natural-language interaction with ERP systems and business information
-- ERP Usage Analytics: dashboards for module and page usage tracking, user engagement, and behavior analysis
-- AI-Powered CV Ranker: AI-assisted resume evaluation against job requirements and candidate ranking support
-
-This work has strengthened my focus on building reliable, practical AI systems for real-world workflows.
+- ERP AI Assistant: I developed the solution to enable natural-language interaction with ERP systems and business information.
+- ERP Usage Analytics: dashboards for module and page usage tracking, engagement analysis, and user behavior monitoring.
+- AI-Powered CV Ranker: AI-assisted resume evaluation against job requirements and candidate ranking support.
 
 ## Connect
 
@@ -127,6 +123,4 @@ This work has strengthened my focus on building reliable, practical AI systems f
 
 ## Notes
 
-- I prioritize maintainable, explainable, and business-relevant AI solutions.
-- I am continuing to deepen my knowledge in MLOps, deployment, monitoring, and production AI systems.
-- I value practical engineering work over hype, and I prefer systems that are reproducible and production-minded.
+I prioritize maintainable, explainable, and business-relevant AI solutions, and I continue to deepen my understanding of MLOps, deployment, monitoring, and production AI systems.
